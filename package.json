@@ -1,0 +1,19 @@
+{
+  "name": "shrinkme-automation",
+  "version": "1.0.0",
+  "description": "A bot to solve reCAPTCHA and click shortened links on shrinkme.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "puppeteer": "^20.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
